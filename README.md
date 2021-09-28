@@ -1,2 +1,2 @@
-# bhumikaa
+# bhumika
 SNAKE GAME
